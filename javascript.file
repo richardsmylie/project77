@@ -1,0 +1,6 @@
+console.log()
+concat()
+var add = a + b ;
+console.log(add);
+
+
